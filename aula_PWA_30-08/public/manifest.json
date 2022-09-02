@@ -1,0 +1,14 @@
+{
+  "name": "Site Nerd Connetion",
+  "short_name": "Nerd Connection",
+  "description": "WEB APP para atividade final de PWI",
+  "display": "fullscreen",
+  "start_url":"index.html",    
+  "scope": "/",
+  "icons": [
+      {
+          "src": "icon/cat-png.png",
+          "sizes": "512x512",
+          "type": "image/png"
+      }]
+}
